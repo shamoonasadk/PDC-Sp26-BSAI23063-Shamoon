@@ -17,7 +17,7 @@ threads, the breaker trips after 3 failures and returns an instant fallback.
 
 ### 1. Clone the repo
 git clone https://github.com/shamoonasadk/PDC-Sp26-BSAI23063-Shamoon.git
-cd PDC-Sp25-BSAI-23063-Shamoon
+cd PDC-Sp26-BSAI23063-Shamoon
 
 ### 2. Create and activate virtual environment
 python -m venv venv
